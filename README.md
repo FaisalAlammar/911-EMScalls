@@ -1,6 +1,6 @@
 # 📞 911 Emergency Calls Dashboard
 
-This is an interactive Streamlit web application for analyzing 911 emergency call data in Montgomery County. The dashboard helps you explore emergency trends, call types, geographical distributions, and more.
+This is an interactive Streamlit web application for analyzing 911 emergency call data in Montgomery County in Pennsylvania.
 
 ##  Features
 
